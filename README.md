@@ -8,7 +8,7 @@ This project analyzes and predicts student performance.
 
 Dataset
 - Source: Kaggle
-  link:"D:\DA\StudentPerformanceFactors.csv"
+  link:"https://www.kaggle.com/datasets/lainguyn123/student-performance-factors"
 
  Methodology
  - Data Collection from Kaggle
